@@ -1,12 +1,7 @@
 {
   "expo": {
-    "name": "ClothingApp",
-    "slug": "ClothingApp",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
+    "name": "Binge",
+    "slug": "Binge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +18,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     }
   }
 }
